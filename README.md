@@ -1,1 +1,1 @@
-[**DataCamp Courses: Bookdown**](http://datacamp.netlify.app/)
+[**DataCamp: Bookdown**](http://datacamp.netlify.app/)
